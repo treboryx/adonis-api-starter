@@ -55,7 +55,7 @@
     "@adonisjs/auth": "^8.1.0",
     "@adonisjs/core": "^5.7.5",
     "@adonisjs/lucid": "^18.0.1",
-    "@adonisjs/repl": "^3.1.10",
+    "@adonisjs/repl": "^3.1.11",
     "@adonisjs/session": "^6.4.0",
     "@adonisjs/shield": "^7.0.10",
     "luxon": "^2.3.2",
