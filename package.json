@@ -8,7 +8,7 @@
     "start": "node server.js",
     "lint": "eslint . --ext=.ts",
     "format": "prettier --write .",
-    "deploy": "node ace build --production && node build/server.js"
+    "deploy": "node ace migration:run --force && node build/server.js"
   },
   "eslintConfig": {
     "extends": [
