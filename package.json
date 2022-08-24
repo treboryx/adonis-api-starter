@@ -60,7 +60,7 @@
     "@adonisjs/session": "^6.4.0",
     "@adonisjs/shield": "^7.1.0",
     "luxon": "^3.0.1",
-    "pg": "^8.7.3",
+    "pg": "^8.8.0",
     "phc-argon2": "^1.1.3",
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.1.13",
