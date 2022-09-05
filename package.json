@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@adonisjs/assembler": "^5.8.1",
-    "@japa/preset-adonis": "^1.1.0",
+    "@japa/preset-adonis": "^1.1.1",
     "@japa/runner": "^2.0.9",
     "adonis-preset-ts": "^2.1.0",
     "eslint": "^8.23.0",
