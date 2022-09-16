@@ -44,7 +44,7 @@
     "adonis-preset-ts": "^2.1.0",
     "eslint": "^8.23.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-adonis": "^2.1.0",
+    "eslint-plugin-adonis": "^2.1.1",
     "eslint-plugin-prettier": "^4.2.1",
     "pino-pretty": "^9.1.0",
     "prettier": "^2.7.1",
