@@ -42,7 +42,7 @@
     "@japa/preset-adonis": "^1.2.0",
     "@japa/runner": "^2.2.2",
     "adonis-preset-ts": "^2.1.0",
-    "eslint": "^8.25.0",
+    "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-adonis": "^2.1.1",
     "eslint-plugin-prettier": "^4.2.1",
