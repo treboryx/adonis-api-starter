@@ -20,6 +20,7 @@
 
 import Route from '@ioc:Adonis/Core/Route'
 import HealthCheck from '@ioc:Adonis/Core/HealthCheck'
+import Env from '@ioc:Adonis/Core/Env'
 
 Route.get('/', () => {
   return { hello: 'world' }
@@ -37,3 +38,5 @@ Route.get('health', async ({ response }) => {
 
   return report.healthy ? response.ok(report) : response.badRequest(report)
 })
+
+if (Env.get('IPX_ENABLED')) Route.get('/image/*', 'ImagesController.index')

@@ -27,4 +27,6 @@ export default Env.rules({
   PGUSER: Env.schema.string(),
   PGPASSWORD: Env.schema.string.optional(),
   PGDATABASE: Env.schema.string(),
+  IPX_ENABLED: Env.schema.boolean(),
+  IPX_DOMAINS: Env.schema.string.optional(),
 })
