@@ -43,7 +43,7 @@
     "@japa/runner": "^2.5.1",
     "adonis-preset-ts": "^2.1.0",
     "eslint": "^8.36.0",
-    "eslint-config-prettier": "^8.7.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-adonis": "^2.1.1",
     "eslint-plugin-prettier": "^4.2.1",
     "pino-pretty": "^10.0.0",
