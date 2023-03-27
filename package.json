@@ -48,7 +48,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "pino-pretty": "^10.0.0",
     "prettier": "^2.8.7",
-    "typescript": "~4.9",
+    "typescript": "~5.0",
     "youch": "^3.2.2",
     "youch-terminal": "^2.2.0"
   },
