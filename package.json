@@ -59,7 +59,7 @@
     "@adonisjs/repl": "^3.1.11",
     "@adonisjs/session": "^6.4.0",
     "@adonisjs/shield": "^7.1.0",
-    "ipx": "^0.9.11",
+    "ipx": "^1.0.0",
     "luxon": "^3.3.0",
     "pg": "^8.10.0",
     "phc-argon2": "^1.1.4",
