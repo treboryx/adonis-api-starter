@@ -38,7 +38,7 @@
     "printWidth": 100
   },
   "devDependencies": {
-    "@adonisjs/assembler": "^5.9.6",
+    "@adonisjs/assembler": "^7.0.0",
     "@japa/preset-adonis": "^1.2.0",
     "@japa/runner": "^2.5.1",
     "adonis-preset-ts": "^2.1.0",
